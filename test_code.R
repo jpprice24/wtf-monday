@@ -1,3 +1,5 @@
+# this is just a copy
+
 # Determine the bug when you run `get_climates()`
 # Hint: Use `traceback()` to find where it occurs, add breakpoints / `browser()` calls
 # Hint: look at types of input
